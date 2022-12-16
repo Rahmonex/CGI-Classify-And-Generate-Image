@@ -116,4 +116,4 @@ _Follow these quick steps to launch the desktop application_
 [issues-url]: https://github.com/Rahmonex/CGI-Classify-And-Generate-Image/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Rahmonex/CGI-Classify-And-Generate-Image/blob/main/LICENSE
-[homescreen]: tree/main/Images/homescreen.jpg
+[homescreen]: Images/homescreen.png
